@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Constructors_McVey_Cason/1.0.0": {
+        "runtime": {
+          "Constructors_McVey_Cason.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Constructors_McVey_Cason/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
